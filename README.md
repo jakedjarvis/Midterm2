@@ -1,2 +1,2 @@
-# Midterm2
-Amazon Midterm
+# voting
+Midterm 2 Practice
